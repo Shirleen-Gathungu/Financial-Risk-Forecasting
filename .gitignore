@@ -1,0 +1,39 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore user-specific files
+.bashrc
+.bash_profile
+.bash_logout
+.profile
+.bash_history
+.npm/
+.cache/
+.config/
+.local/
+.ssh/
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Ignore other project files
+**/node_modules/
+**/dist/
+**/build/
+**/tmp/
+**/__pycache__/
+
+# Ignore other directories from the parent directory
+../cheapest_study_destinations_europe/
+../Documents/
+../Downloads/
+../Music/
+../Pictures/
+../Videos/
+../snap/
+../.gitconfig
+../.gitignore
+
+# Add any other files or directories you want to ignore
+
